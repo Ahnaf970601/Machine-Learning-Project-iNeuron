@@ -4,6 +4,8 @@ from flask import request
 import pandas as pd
 import joblib
 import numpy as np
+import sklearn
+print(sklearn.__version__)
 
 app = Flask(__name__)
 app.config['MAX_CONTENT_LENGTH'] = 50 * 1000 * 1000
