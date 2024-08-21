@@ -1,6 +1,5 @@
-# Machine-Learning-Project-iNeuron
+Player-Analysis-Using-Machine-Learning
 
-This is a project that is built using the Python and Flask Framework. This
-webapp can predict the overall score of a football player given various
-attributes and match information. This webapp is deployed on the Heroku
-Platform.
+A cutting-edge web application built with Python and the Flask framework, designed to predict a football player's overall score with precision. 
+By analyzing a range of player attributes and match data, this app delivers accurate predictions, offering valuable insights for enthusiasts and professionals alike. 
+Deployed seamlessly on the Heroku platform, this webapp is accessible anytime, anywhere—making it the perfect tool to elevate your football analysis game.
