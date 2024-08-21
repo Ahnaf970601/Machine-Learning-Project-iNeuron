@@ -18,3 +18,4 @@ sklearn==0.0
 threadpoolctl==3.0.0
 Werkzeug==2.0.2
 wincertstore==0.2
+setuptools>=65.5.0
